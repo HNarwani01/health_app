@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## 🚀 Overview
+**Health App** is a lightweight web application designed to help users explore health-related features with a smooth and responsive UI.  
+This project focuses on clean structure, scalable components, and production-ready development practices.
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## ✨ Features
+- ⚡ Fast and responsive UI
+- 🧩 Modular component structure
+- 🔒 Environment-based configuration
+- 📱 Mobile-friendly layout
+- 🛠️ Easy to run and extend
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Mr9YPs-hh9cy1xcfeEiLo7R2CYDfTKq_
+---
 
-## Run Locally
+## 🧰 Tech Stack
+- **TypeScript**
+- **React**
+- **Node.js**
+- **HTML / CSS**
+- **NPM**
 
-**Prerequisites:**  Node.js
+---
 
+## 📦 Getting Started (Run Locally)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Prerequisites
+- **Node.js** installed
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
+
