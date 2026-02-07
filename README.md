@@ -30,5 +30,14 @@ This project focuses on clean structure, scalable components, and production-rea
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/HNarwani01/health_app.git
+   
+2. Download the dependecies:
+   ```bash
+   npm i
+   
+3. Run it locally
+   ```bash
+   npm run dev
+
 
